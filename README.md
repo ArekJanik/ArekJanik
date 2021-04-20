@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GraphQL](https://files.slack.com/files-pri/T6SRAHDB8-F01URL0T1FX/graphql.svg?pub_secret=95ba5977c1)](http://selleo.com/)
+
 <!--
 **ArekJanik/ArekJanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
