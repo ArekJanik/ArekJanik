@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Banner](https://drive.google.com/uc?id=1Tx23lM3b6eabLQy1cL4S-4wTo3aT3Sxx)
+
 <!--
 **ArekJanik/ArekJanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
