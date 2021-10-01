@@ -1,4 +1,5 @@
-![Arkadiusz Janik, Front-end designer](https://assets.selleo.com/banners/ppelszynski.svg)
+[![Arkadiusz, Front-end designer](https://assets.selleo.com/banners/ajanik.svg)](https://selleo.com/)
+
 
 <!--
 **ArekJanik/ArekJanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
